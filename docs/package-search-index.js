@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"ru.kuzhleva.dots"},{"l":"ru.kuzhleva.errors"},{"l":"ru.kuzhleva.house"},{"l":"ru.kuzhleva.lists"},{"l":"ru.kuzhleva.main"},{"l":"ru.kuzhleva.maths"},{"l":"ru.kuzhleva.weapons"}];updateSearchResults();
